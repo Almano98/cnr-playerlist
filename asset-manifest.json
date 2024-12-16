@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cnr-playerlist/static/css/main.e6c13ad2.css",
+    "main.js": "/cnr-playerlist/static/js/main.4790d5af.js",
+    "static/js/453.52eb8dd7.chunk.js": "/cnr-playerlist/static/js/453.52eb8dd7.chunk.js",
+    "index.html": "/cnr-playerlist/index.html",
+    "main.e6c13ad2.css.map": "/cnr-playerlist/static/css/main.e6c13ad2.css.map",
+    "main.4790d5af.js.map": "/cnr-playerlist/static/js/main.4790d5af.js.map",
+    "453.52eb8dd7.chunk.js.map": "/cnr-playerlist/static/js/453.52eb8dd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4790d5af.js"
+  ]
+}
